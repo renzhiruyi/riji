@@ -1,0 +1,5 @@
+Centos 7 comes with MariaDB instead of MySQL. MariaDb is a open source equivalent to MySQL and can be installed with 
+:yum -y install mariadb-server mariadb.
+ If you must have mysql you need to add the mysql-community repo
+ sudo rpm -Uvh http://dev.mysql.com/get/mysql-community-release-el7-5.noarch.rpm 
+ and then you can install MySQLl like you normally do
