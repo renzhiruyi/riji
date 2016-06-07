@@ -8,4 +8,8 @@
 
 2:   yum install mysql-server mysql mysql-devel
 
+3:  look up the grant of users:
+    SELECT DISTINCT CONCAT('User: ''',user,'''@''',host,''';') AS query FROM mysql.user;
+    show grants for 'SinaStore'@'%';
+    desc mysql.user;
 
