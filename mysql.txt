@@ -13,3 +13,8 @@
     show grants for 'SinaStore'@'%';
     desc mysql.user;
 
+
+4:   if ''@'anyhost' exist, it will match all connetions such an 'renzhi'@'%', so drop it;
+     drop user ''@'%';
+     flush privileges;
+
