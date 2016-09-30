@@ -1,0 +1,20 @@
+1 cp acid/tableutil  ./
+
+2 fs.lua use os.time() instead of ngx.now()
+
+
+3 s2http: acid/impl/http.lua
+          core2cli.lua
+          download.lua
+          ec.lua
+          ecproxy.lua
+          etcdcli.lua
+          externalauth.lua
+          haystack.lua
+          hlv.lua
+          mcproxyclient.lua
+          relayput.lua
+          stoproxy.lua
+
+
+

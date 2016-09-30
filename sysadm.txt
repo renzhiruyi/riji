@@ -1,0 +1,2 @@
+hdparm --direct -t /dev/xvda
+

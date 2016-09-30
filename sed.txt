@@ -1,0 +1,2 @@
+sed    's/require.*tableutil.*/require( "acid.tableutil"  )/g' *.lua -i
+--add g to substitute all match, or only the first match
