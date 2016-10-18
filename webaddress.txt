@@ -2,3 +2,9 @@
 
 network:
 1.http://www.firewall.cx/networking-topics.html
+2.http://blog.scottlowe.org/2013/09/04/introducing-linux-network-namespaces/  Introducing Linux Network Namespaces
+
+
+linux tutarual:
+1.http://www.tecmint.com/
+2.http://linux-ip.net/html/index.html     Guide to IP Layer Network Administration with Linux

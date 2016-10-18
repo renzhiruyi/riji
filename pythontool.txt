@@ -1,0 +1,29 @@
+pip install ipython
+pip install pypython
+pip install saws # aws client
+pip install aws-shell
+pip install googlecl
+
+pip install python-yaml
+pip install json2yaml
+
+pip install Pillow
+pip install pillow
+pip install requests
+pip install urllib3
+pip install scrapy
+pip install tinycss
+pip install markdown2
+
+pip install GitPython
+pip install gitconfig
+pip install shadowsocks
+
+pip install pyflakes
+pip install flake8
+pip install autoflake
+pip install autopep8
+pip install isort
+pip install yapf # code formatter
+
+pip install unp # unpack anythin
