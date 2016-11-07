@@ -8,3 +8,16 @@ network:
 linux tutarual:
 1.http://www.tecmint.com/
 2.http://linux-ip.net/html/index.html     Guide to IP Layer Network Administration with Linux
+
+
+linux code source code
+1. https://www.ece.uic.edu/~yshi1/linux/lkse/node1.html  introduction booting bios explained source code
+2. https://en.wikiversity.org/wiki/Linux/Reading_the_Linux_Kernel_Sources#Where_the_CPU_Starts_Executing   reading the source
+3. http://tldp.org/LDP/tlk/tlk.html       the linux kernel
+
+1. http://matt.might.net/articles/what-cs-majors-should-know/  what erery computer science major should know
+2. https://0xax.gitbooks.io/linux-insides/content/      linux inside
+3, http://www.tldp.org/LDP/lki/lki.html#toc1   linux kernel 2.4 internals
+4, https://www.win.tue.nl/~aeb/linux/lk/lk.html#toc2   the linux kernel
+5. http://0xax.github.io/     how does GNU GRUB work
+6. http://0xax.blogspot.com/p/assembly-x8664-programming-for-linux.html   assembly x86_64 programming for linux

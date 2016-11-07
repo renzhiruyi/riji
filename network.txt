@@ -2,3 +2,4 @@
 2. http://lartc.org/lartc.html   Linux Advanced Routing & Traffic Control HOWTO
 3, http://chsoft.biz/lartc/tc_tutorial.html  tc tutorial
 4, http://www.tldp.org/HOWTO/html_single/Traffic-Control-HOWTO/  Traffic Control HOWTO 
+5, http://linux-ip.net/gl/ip-cref/ip-cref-node1.html   ip commond
